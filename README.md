@@ -6,7 +6,7 @@ This repository contains code and associated files for deploying a plagiarism de
 
 Plagiarism is widely acknowledged to be a significant and increasing problem for higher education institutions (McCabe 2005; Judge 2008). A wide range of solutions, including several commercial systems, have been proposed to assist the educator in the task of identifying plagiarised work, or even to detect them automatically. Direct comparison of these systems is made difficult by the problems in obtaining genuine examples of plagiarised student work. We describe our initial experiences with constructing a corpus consisting of answers to short questions in which plagiarism has been simulated. This corpus is designed to represent types of plagiarism that are not included in existing corpora and will be a useful addition to the set of resources available for the evaluation of plagiarism detection systems.'
 
-This project is based on Clough, P. and Stevenson, M. (2011) Developing a corpus of plagiarised short answers. Language Resources and Evaluation , 45 (1). pp. 5-24. ISSN 1574-020X. Paper Link is ![Download](http://eprints.whiterose.ac.uk/42922/2/Clough_42922.pdf)
+This project is based on Clough, P. and Stevenson, M. (2011) Developing a corpus of plagiarised short answers. Language Resources and Evaluation , 45 (1). pp. 5-24. ISSN 1574-020X. Paper Link is [here](http://eprints.whiterose.ac.uk/42922/2/Clough_42922.pdf)
 
 ## Project Overview
 
