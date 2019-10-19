@@ -19,7 +19,7 @@ This project will be broken down into three main notebooks:
 * Explore the existing data features and the data distribution.
 * This first notebook is **not** required in your final project submission.
 
-**Notebook 2: Feature Engineering** [Jyputer Notebook]()
+**Notebook 2: Feature Engineering** [Jyputer Notebook](https://github.com/Pyligent/Plagiarism-Detection-Model-AWS/blob/master/2_Plagiarism_Feature_Engineering.ipynb)
 
 * Clean and pre-process the text data.
 * Define features for comparing the similarity of an answer text and a source text, and extract similarity features.
