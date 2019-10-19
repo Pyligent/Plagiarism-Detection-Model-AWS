@@ -30,6 +30,7 @@ This project will be broken down into three main notebooks:
 
 * Upload your train/test feature data to S3.
 * Define a binary classification model and a training script.
+* Two Models: SVM Classification Model and PyTorch Model
 * Train your model and deploy it using SageMaker.
 * Evaluate your deployed classifier.
 
