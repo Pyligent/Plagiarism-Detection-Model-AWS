@@ -1,5 +1,8 @@
 # Plagiarism Detection Model, Machine Learning Deployment
 
+- **Model : SVM Classification Model and PyTorch LSTM Model**
+- **Accuracy : 1.0**
+
 This repository contains code and associated files for deploying a plagiarism detector using AWS SageMaker.
 
 ## Problem Statement and Dataset
